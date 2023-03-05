@@ -1,0 +1,16 @@
+---
+title: "midterm report"
+author: "Naihe XIao"
+date: "2023-03-05"
+output: pdf_document
+---
+
+# Introduction(provide background on your dataset and a clear formulated question or hypothesis)
+
+The topic of unemployment is an important issue that has been widely discussed in the United States, especially during and after the pandemic. While the country has made significant progress in promoting equal opportunities for all, there are still disparities that exist among different groups.
+
+The purpose of this report is to analyze the data on employment and examine the relationship between gender, race, and income in the United States. The report will provide a comprehensive overview of the current employment landscape in the country, highlighting the key trends and patterns that exist.
+
+The report will also examine the factors that contribute to employment disparities, including discrimination, education, and social and economic factors. By analyzing these factors, we can gain a better understanding of the root causes of employment disparities and identify potential solutions.
+
+Ultimately, the goal of this report is to provide valuable insights into the relationship between employment and gender, race, and income in the United States. By doing so, we hope to contribute to the ongoing dialogue on this important issue and help promote greater equality and opportunity for all.
